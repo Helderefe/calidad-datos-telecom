@@ -1,0 +1,7 @@
+id_cliente,nombre,edad,telefono,email,servicio_movil,servicio_fijo,servicio_internet,estado_servicio,consumo_mensual,pago_pendiente
+1,Laura Ríos,35,3124567890,laura@example.com,SI,NO,SI,activo,45000,NO
+2,Miguel Toro,28,3201234567,miguel@correo.com,SI,SI,SI,suspendido,60000,SI
+3,Andrea López,42,,andrea@ejemplo.com,NO,SI,SI,activo,39000,NO
+4,Camilo Ruiz,55,3188889999,camilo@empresa.com,SI,NO,SI,activo,,NO
+5,Lina Gómez,24,3001122334,,SI,SI,NO,inactivo,0,SI
+6,Julián Peña,30,3012233445,julian@mail.com,NO,NO,NO,activo,12000,NO
